@@ -1,0 +1,31 @@
+{
+    "name": "template-node-sockets",
+    "version": "1.0.0",
+    "description": "NodeJS Template using Sockets",
+    "main": "app.js",
+    "scripts": {
+        "test": "node app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NioZero/template-node-sockets.git"
+    },
+    "keywords": [
+        "node",
+        "template",
+        "socket.io",
+        "express"
+    ],
+    "author": "NioZero",
+    "license": "SEE LICENSE IN LICENSE",
+    "bugs": {
+        "url": "https://github.com/NioZero/template-node-sockets/issues"
+    },
+    "homepage": "https://github.com/NioZero/template-node-sockets#readme",
+    "dependencies": {
+        "cookie-parser": "^1.4.4",
+        "express": "^4.17.1",
+        "morgan": "^1.9.1",
+        "socket.io": "^2.3.0"
+    }
+}
