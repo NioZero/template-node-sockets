@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/NioZero/template-node-sockets#readme",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "morgan": "^1.9.1",
         "socket.io": "^2.3.0"
     }
